@@ -32,7 +32,7 @@ for(Question q:questions){
 }
 for (String s : input) {
  
-    System.out.println("Your Selected Option for Question No: "+getId()+" is "+s);
+    System.out.println(s);
   
 }
 
